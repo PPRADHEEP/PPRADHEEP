@@ -47,10 +47,7 @@
 
 ## 📊 GitHub Stats
 
-![PRADHEEPP GitHub Stats](https://github-readme-stats.vercel.app/api?username=PradheepP&show_icons=true&theme=default&count_private=true)
-
-## Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PradheepP&layout=compact&hide=css,html&langs_count=6)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=PradheepP&show_icons=true&theme=default&count_private=true)
 
 ![Coding](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
