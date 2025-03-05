@@ -1,6 +1,9 @@
 ## 👋**My Self Pradheep** <br>
 ## 🖥**I'm the Java Full Stack developer** 👍<br>
 ## Passionate about bringing ideas to life through code. Web developer with a knack for building applications using **React**, **Spring Boot**, and **MySQL**.
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=blue&width=435&lines=Java+Full+Stack+Developer!;Passionate+about+coding!;Building+impactful+projects!">
+</h3>
 
 ## 🚀 About Me
 
@@ -45,10 +48,13 @@
 ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 
+## 🌍 Connect with Me  
+[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradheepraj29@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradheep-p-17b878224/)  
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=PradheepP&show_icons=true&theme=default&count_private=true)
 
 ![Coding](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
-
 
